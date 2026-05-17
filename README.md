@@ -1,16 +1,24 @@
-## Hi there 👋
+# Krzysztof Bieszczad
 
-<!--
-**KBieszczad/KBieszczad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Silesian University of Technology with a strong intrest in low-level programming, embedded systems, and software architecture.
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Custom IoT Bike Computer](https://github.com/KBieszczad/Bike-Computer)**
+* **Tech:** C, nRF, KiCad
+* A work-in-progress, ultra-low-power custom bicycle computer featuring GPS tracking, environmental sensing and designed 2-layer PCB.
+
+**[Smart Mailbox Notifier](https://github.com/KBieszczad/Mailbox-Notifier)**
+* **Tech:** C++, ESP-IDF, ESP32, Eagle
+* An ultra-low power IoT device that detects physical mail and sends email notifications. Built with extreme battery optimization using hardware power latching and offline message queuing.
+
+**[Flappy Bird SFML Clone](https://github.com/KBieszczad/Flappy-Bird)**
+* **Tech:** C++20, SFML, Multithreading
+* A fully functional, object-oriented 2D game built from scratch. Showcases a clean State Machine architecture, frame-rate independent physics, and advanced C++20 features.
+
+**[Gaussian Elimination Solver](https://github.com/KBieszczad/Gaussian-Elimination)**
+* **Tech:** C++, Assembly, OpenMP
+* A high-performance linear equation solver. Demonstrates hybrid programming by combining a GUI with computational DLLs optimized through SIMD vectorization and multi-threading.
+
+## Contact
+* **Email:** krzybies@gmail.com
