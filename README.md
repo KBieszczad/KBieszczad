@@ -5,12 +5,12 @@ I am a Computer Science student at Silesian University of Technology with a stro
 ## My Projects
 
 **[Custom IoT Bike Computer](https://github.com/KBieszczad/Bike-Computer)**
-* **Tech:** C, nRF, KiCad
-* A work-in-progress, ultra-low-power custom bicycle computer featuring speed measuring, GPS tracking, environmental sensing and a custom-designed 2-layer PCB.
+* **Tech:** C++, PlatformIO, nRF52, KiCad
+* A work-in-progress, low-power custom bicycle computer featuring speed measuring, GPS tracking, environmental sensing, and a custom-designed 2-layer PCB.
 
 **[Smart Mailbox Notifier](https://github.com/KBieszczad/Mailbox-Notifier)**
 * **Tech:** C++, ESP-IDF, ESP32, EAGLE
-* An ultra-low power IoT device that detects physical mail and sends email notifications. Features battery optimization using hardware power latching, battery monitoring via ADC pin, and AP service mode.
+* An ultra-low power IoT device that detects physical mail and sends email notifications. Features battery optimization using hardware power latching, battery monitoring via ADC pin, and Wi-Fi Access Point service mode.
 
 **[Flappy Bird SFML Clone](https://github.com/KBieszczad/Flappy-Bird)**
 * **Tech:** C++20, SFML
